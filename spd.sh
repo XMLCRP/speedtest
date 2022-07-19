@@ -1,6 +1,6 @@
 #!/bin/bash
 # 用于测试网络速度
-# by XMLCRP
+# by XMLCRP 2022.7.9
 if [ -f /root/speedtest/speedtest ]
 then
 	exec 1> /root/speedtest/out.log
