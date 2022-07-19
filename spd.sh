@@ -18,10 +18,10 @@ else
 	echo " 添加每日任务：
 	crontab -e
 	复制下面代码，并添加到末尾。
-	10 20 * * * bash /root/speedtest/spd.sh
-	10 21 * * * bash /root/speedtest/spd.sh
-	10 22 * * * bash /root/speedtest/spd.sh
-	10 23 * * * bash /root/speedtest/spd.sh
+	10 20 * * * bash /root/spd.sh
+	10 21 * * * bash /root/spd.sh
+	10 22 * * * bash /root/spd.sh
+	10 23 * * * bash /root/spd.sh
 	"
 fi
 
